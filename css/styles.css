@@ -33,10 +33,49 @@ body {
   padding-top: 70px;
 }
 
-hl {
-  color:white;
+#search {
+  font-size: 17.5 px;
+}
+
+small {
+  font-size: 15px;
+}
+
+.title {
+  font-size: 23px;
+}
+
+ h1 {
+   font-size: 40px;
+ }
+
+.description {
+  font-size: 10px;
+  padding: 40px 100px 40px 100px;
 }
 
 p {
-  font-size: 15px;
+  font-size: 17px;
+  text-align: center;
+}
+
+.image1 {
+  text-align: center;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-bottom: 30px;
+}
+
+li {
+  font-size: 20px;
+  list-style: none;
+}
+
+.list {
+  text-align: left;
 }

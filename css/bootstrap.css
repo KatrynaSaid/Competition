@@ -4168,6 +4168,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   min-height: 50px;
   margin-bottom: 20px;
   border: 1px solid transparent;
+  color: #cc99cc;
 }
 @media (min-width: 768px) {
   .navbar {
@@ -4956,6 +4957,7 @@ a.badge:focus {
   margin-left: 3px;
 }
 .jumbotron {
+  padding-top: 0px;
   padding-bottom: 30px;
   margin-bottom: 30px;
   color: inherit;
